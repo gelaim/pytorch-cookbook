@@ -9,6 +9,7 @@ The goal of this cookbook is to present some concrete examples for getting start
 
 - The basics:
   - IPython Notebook
+  - Exploratory Data Analysis (pandas, matplotlib)
   - Datasets
   - Tensors
     - Numpy
