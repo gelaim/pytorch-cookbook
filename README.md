@@ -14,6 +14,7 @@ The goal of this cookbook is to present some concrete examples for getting start
   - Tensors
     - Numpy
   - Models
+  - Pytorch and docker
 
 - Neural Networks
   - Model
